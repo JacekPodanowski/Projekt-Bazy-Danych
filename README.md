@@ -1,1 +1,3 @@
-Szczegółowy projekt systemu obsługującego pole kempingowgowe wykoany w ramach kursu : Bazy Danych
+Szczegółowy projekt systemu obsługującego pole kempingowgowe.
+
+[Projekt pdf](./Projekt Bazy Danych.pdf)
