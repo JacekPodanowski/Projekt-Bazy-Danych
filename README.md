@@ -1,3 +1,3 @@
 Szczegółowy projekt systemu obsługującego pole kempingowgowe.
 
-[Projekt pdf](./Projekt Bazy Danych.pdf)
+[Projekt pdf](./Projekt_Bazy_Danych.pdf)
